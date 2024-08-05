@@ -38,7 +38,7 @@ For any inquiries or feedback, please contact alokrajharmu@gmail.com.
 
 ## UI
 
-![UI Screenshot](https://i.ibb.co/D4VMyx8/1.png)
+![UI Screenshot](https://ibb.co/D4VMyx8)
 ![UI Screenshot](https://i.ibb.co/JR1nGVT/2.png)
 ![UI Screenshot](https://i.ibb.co/RjVTWs2/3.png)
 ![UI Screenshot](https://i.ibb.co/6ZxJXcN/4.png)
