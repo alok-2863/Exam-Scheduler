@@ -38,15 +38,15 @@ For any inquiries or feedback, please contact alokrajharmu@gmail.com.
 
 ## UI
 
-https://ibb.co/D4VMyx8
-https://ibb.co/JR1nGVT
-https://ibb.co/RjVTWs2
-https://ibb.co/6ZxJXcN
-https://ibb.co/bmLL6hf
-https://ibb.co/Jp5JQ3V
-https://ibb.co/vzpf8Tx
-https://ibb.co/hYnwsrH
-https://ibb.co/bW3SqpZ
+1. https://ibb.co/D4VMyx8
+2. https://ibb.co/JR1nGVT
+3. https://ibb.co/RjVTWs2
+4. https://ibb.co/6ZxJXcN
+5. https://ibb.co/bmLL6hf
+6. https://ibb.co/Jp5JQ3V
+7. https://ibb.co/vzpf8Tx
+8. https://ibb.co/hYnwsrH
+9. https://ibb.co/bW3SqpZ
 
 ![UI Screenshot](https://i.ibb.co/D4VMyx8/1.png)
 ![UI Screenshot](https://i.ibb.co/JR1nGVT/2.png)
