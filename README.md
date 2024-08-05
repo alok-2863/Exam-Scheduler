@@ -38,6 +38,16 @@ For any inquiries or feedback, please contact alokrajharmu@gmail.com.
 
 ## UI
 
+https://ibb.co/D4VMyx8
+https://ibb.co/JR1nGVT
+https://ibb.co/RjVTWs2
+https://ibb.co/6ZxJXcN
+https://ibb.co/bmLL6hf
+https://ibb.co/Jp5JQ3V
+https://ibb.co/vzpf8Tx
+https://ibb.co/hYnwsrH
+https://ibb.co/bW3SqpZ
+
 ![UI Screenshot](https://i.ibb.co/D4VMyx8/1.png)
 ![UI Screenshot](https://i.ibb.co/JR1nGVT/2.png)
 ![UI Screenshot](https://i.ibb.co/RjVTWs2/3.png)
