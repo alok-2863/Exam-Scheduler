@@ -1,3 +1,4 @@
+// Add your firebase URL in line 113
 import tkinter as tk
 from PIL import Image, ImageTk
 from tkinter import ttk, filedialog, messagebox
@@ -109,7 +110,7 @@ try:
     firebase_admin.initialize_app(
         cred,
         {
-            "databaseURL": "https://exam-scheduler-2-default-rtdb.asia-southeast1.firebasedatabase.app"
+            "databaseURL": "Add your firebase URL."
         },
     )
 except Exception as e:
