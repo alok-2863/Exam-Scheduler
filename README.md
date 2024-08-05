@@ -38,22 +38,13 @@ For any inquiries or feedback, please contact alokrajharmu@gmail.com.
 
 ## UI
 
-1. https://ibb.co/D4VMyx8
-2. https://ibb.co/JR1nGVT
-3. https://ibb.co/RjVTWs2
-4. https://ibb.co/6ZxJXcN
-5. https://ibb.co/bmLL6hf
-6. https://ibb.co/Jp5JQ3V
-7. https://ibb.co/vzpf8Tx
-8. https://ibb.co/hYnwsrH
-9. https://ibb.co/bW3SqpZ
+![UI Screenshot](https://i.ibb.co/SNsm8hd/ss1.png)
+![UI Screenshot](https://i.ibb.co/KjP6fdg/ss1-a.png)
+![UI Screenshot](https://i.ibb.co/mNM572J/ss2.png)
+![UI Screenshot](https://i.ibb.co/Sx87fDJ/ss3.png)
+![UI Screenshot](https://i.ibb.co/1QKK0VS/ss4.png)
+![UI Screenshot](https://i.ibb.co/NNZBST5/ss5.png)
+![UI Screenshot](https://i.ibb.co/C0g4FY5/ss6.png)
+![UI Screenshot](https://i.ibb.co/Z2w7dvK/ss7.png)
+![UI Screenshot](https://i.ibb.co/kHyRkYf/ss8.png)
 
-![UI Screenshot](https://i.ibb.co/D4VMyx8/1.png)
-![UI Screenshot](https://i.ibb.co/JR1nGVT/2.png)
-![UI Screenshot](https://i.ibb.co/RjVTWs2/3.png)
-![UI Screenshot](https://i.ibb.co/6ZxJXcN/4.png)
-![UI Screenshot](https://i.ibb.co/bmLL6hf/5.png)
-![UI Screenshot](https://i.ibb.co/Jp5JQ3V/6.png)
-![UI Screenshot](https://i.ibb.co/vzpf8Tx/7.png)
-![UI Screenshot](https://i.ibb.co/hYnwsrH/8.png)
-![UI Screenshot](https://i.ibb.co/bW3SqpZ/9.png)
